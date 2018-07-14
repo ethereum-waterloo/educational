@@ -2,7 +2,6 @@
 Your one stop shop for all educational resources from the Ethereum Waterloo community.
 
 ## Dev Tools
-* [ConsenSys Labs Ethereum Dev Tools List] (https://github.com/ConsenSysLabs/ethereum-developer-tools-list)
 * [ConsenSys Labs Ethereum Dev Tools List](https://github.com/ConsenSysLabs/ethereum-developer-tools-list) 
 
 ## Presentations
