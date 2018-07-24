@@ -1,4 +1,4 @@
-# EthereumWaterloo 
+# Ethereum Waterloo 
 Your one stop shop for all educational resources from the Ethereum Waterloo community.
 
 ## Presentations & Workshops
