@@ -10,8 +10,8 @@ Your one stop shop for all educational resources from the Ethereum Waterloo comm
 * [Delphi: a Mechanism for Staking & Arbitration - Jan 2018](https://docs.google.com/presentation/d/1wkPhtSVGv5Q9LcrRaVrOxMPPZfuIZBCbv_JxBAHofIE/edit?usp=sharing) - by Mark Beylin 
 
 ## Resources
-* [ConsenSys Labs Ethereum Dev Tools List](https://github.com/ConsenSysLabs/ethereum-developer-tools-list) 
-* [ConsenSys Labs dApp ecosystem map](https://github.com/ConsenSysLabs/dapp-ecosystem-map) 
+* [Ethereum Dev Tools List](https://github.com/ConsenSysLabs/ethereum-developer-tools-list) 
+* [dApp ecosystem map](https://github.com/ConsenSysLabs/dapp-ecosystem-map) 
 * [Awesome list for cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics)
 * [Weekly Ethereum Updates](http://www.weekinethereum.com/)
 
